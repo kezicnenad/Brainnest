@@ -1,0 +1,28 @@
+1. HTML is for structure and CSS for layout
+2. HTML
+3. CSS
+4. Piece of markup language to indicate begin and end of HTML
+5. DOCTYPE, BODY and HEAD
+6. -
+7. It is ROOT element
+8. Metadata about document (title, CSS, scripts...)
+9. All elements and content
+10. <p>Some text</p>
+11. <head> ... </head>
+12. 6, font sizes
+13. <strong>Some text</strong>
+14. <em>Some text</em>
+15. Parent - Child
+16. -
+17. <!-- Some text to comment -->
+18. <ul> ... </ul>
+19. <ol> ... </ol>
+20. <li> ... </li>
+21. <a>Some text</a>
+22. Additional information about elements
+23. href
+24. https://www.example.com and ./images/first-img.jpeg
+25. <img>
+26. src, alt
+27. ./
+28. jpg, jpeg, png, svg... gif, ico
